@@ -99,6 +99,15 @@
         {
             return (numberOne + numberTwo + numberThree) / 3;
         }
+
+        //Go to Assignment Folder in this project called Assignment 1_2 Parts1and2 for the first two parts
+
+
     }
-    }
+
+
+
+
+
+}
 
